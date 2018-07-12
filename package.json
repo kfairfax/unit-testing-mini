@@ -1,0 +1,23 @@
+{
+  "name": "unit-testing-mini",
+  "version": "1.0.0",
+  "description": "<img src=\"https://s3.amazonaws.com/devmountain/readme-logo.png\" width=\"250\" align=\"right\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kfairfax/unit-testing-mini.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kfairfax/unit-testing-mini/issues"
+  },
+  "homepage": "https://github.com/kfairfax/unit-testing-mini#readme",
+  "devDependencies": {
+    "jest": "^23.4.0"
+  }
+}

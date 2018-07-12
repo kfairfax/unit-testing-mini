@@ -5,7 +5,7 @@
 In this project, we'll learn how to unit test JavaScript files by using Jest. Jest is a unit testing framework that was developed by Facebook. One of the cool features about this testing framework is that it doesn't require any configuration to get up and going and it will also automagically find `test` files that are named `.test.js` or located in a `__tests__` folder.
 
 ## Step 1
-
+https://github.com/kfairfax/unit-testing-mini.git
 ### Summary
 
 In this step, we'll initialize a `package.json` and import Jest into our project.
